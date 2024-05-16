@@ -6,12 +6,12 @@ export default defineConfig({
   site: 'https://louisescher.github.io',
   base: '/',
   integrations: [starlight({
-    title: 'Ion Theme',
+    title: 'Doc',
     logo: {
-      src: './src/assets/ion-logo.svg'
+      src: './src/assets/dynamiccraft-logo.png'
     },
     social: {
-      github: 'https://github.com/comet-analytics/ion-theme'
+      github: 'https://github.com/Sigmakib2/DynamicCraft-Doc'
     },
     sidebar: [{
       label: '[home] Home',
